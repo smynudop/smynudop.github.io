@@ -1,7 +1,7 @@
 #imas-cg-ierukana
 
 ##これは何？
-[初代ポケモン151匹言えるかな？](http://hoget.web.fc2.com/pokesay.html)に触発されて作った、モバマスアイドル名記憶トレーニングツール。
+marsa746079様作成の[シンデレラガールズ199人言えるかな？](http://marsa746079.github.io/ierukana/)をちょこっとだけ改良したもの。
 
 ##使い方は？
-http://marsa746079.github.io/ierukana/ にアクセスすると話が早い。
+https://smynudop.github.io/index.html にアクセスすると話が早い。
