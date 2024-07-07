@@ -161,8 +161,6 @@ ImasCg.Ierukana = function () {
 			tweetText = 'あなたは ' + clearTime + ' かけて'
 				+ (numOfIdols['all'] - numOfRemains['all'])
 				+ '人のアイドルを言うことができました。'
-				+ oneForgetIdol.full_name + ' 等、' + numOfRemains['all']
-				+ '人の名前を言えませんでした。精進しましょう。';
 		}
 		var resultTweet = 'https://twitter.com/intent/tweet?hashtags=シンデレラガールズ言えるかな&text='
 		resultTweet = resultTweet + tweetText + SITE_URL;
